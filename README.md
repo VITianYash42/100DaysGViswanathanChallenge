@@ -11,8 +11,8 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 
 | Day | Date | Problem Name | Platform | Solution Link |
 | :---: | :---: | :--- | :--- | :--- |
-| **01** | 18/07/2026 | Odd One Out | Codeforces | [Day01.java](./Solutions/Day01.java) |
-| **02** | 19/07/2026 | In Search of an Easy Problem | Codeforces | [Day02.java](./Solutions/Day02.java) |
+| **01** | 18/07/2026 | Odd One Out | Codeforces | [Day - 1](./Solutions/Day01.java) |
+| **02** | 19/07/2026 | In Search of an Easy Problem | Codeforces | [Day - 2](./Solutions/Day02.java) |
 | **03** | [Date] | *TBD* | *TBD* | *TBD* |
 | **04** | [Date] | *TBD* | *TBD* | *TBD* |
 | **05** | [Date] | *TBD* | *TBD* | *TBD* |
