@@ -1,4 +1,4 @@
-                                                           // 1742A - SUM //           
+                                                 // 1999A - A + B Again? // 
 
 package Solutions;
 import java.util.*;
@@ -7,19 +7,18 @@ public class Day04 {
     public static void main(String []args) {
         
         Scanner sc = new Scanner(System.in);
+        
         int t = sc.nextInt();
         
         for (int i = 1; i <= t; i++) {
-            int a = sc.nextInt();
-            int b = sc.nextInt();
-            int c = sc.nextInt();
+            int n = sc.nextInt();
             
-            if (a + b == c || a + c == b || b + c == a) {
-                System.out.println("YES");
-            }
-            else {
-                System.out.println("NO");
-            }
+            int division = n / 10;
+            int modulo = n % 10;
+            
+            int answer = division + modulo;
+            
+            System.out.println(answer);
         }
         sc.close();
     }
