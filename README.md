@@ -16,6 +16,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **03** | 20/07/2026 | 1703A - YES or YES | Codeforces | [Day 03](./Solutions/Day03.java) |
 | **04** | 21/07/2026 | 1999A - A + B Again? | Codeforces | [Day 04](./Solutions/Day04.java) |
 | **05** | 22/07/2026 | 1742A - SUM | Codeforces | [Day 05](./Solutions/Day05.java) |
+| **06** | 23/07/2026 | 1669A - Division? | Codeforces | [Day 06](./Solutions/Day06.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
