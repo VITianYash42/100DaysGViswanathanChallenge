@@ -17,6 +17,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **04** | 21/07/2026 | 1999A - A + B Again? | Codeforces | [Day 04](./Solutions/Day04.java) |
 | **05** | 22/07/2026 | 1742A - SUM | Codeforces | [Day 05](./Solutions/Day05.java) |
 | **06** | 23/07/2026 | 1669A - Division? | Codeforces | [Day 06](./Solutions/Day06.java) |
+| **07** | 24/07/2026 | 1950A - Peak, Stair or Neither? | Codeforces | [Day 07](./Solutions/Day07.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
