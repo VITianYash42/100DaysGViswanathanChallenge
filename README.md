@@ -19,6 +19,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **06** | 23/07/2026 | 1669A - Division? | Codeforces | [Day 06](./Solutions/Day06.java) |
 | **07** | 24/07/2026 | 1950A - Peak, Stair or Neither? | Codeforces | [Day 07](./Solutions/Day07.java) |
 | **08** | 25/07/2026 | 1829A - Love Story | Codeforces | [Day 08](./Solutions/Day08.java) |
+| **09** | 26/07/2026 | 1560A - Disliikes of Threes | Codeforces | [Day 09](./Solutions/Day09.java) |
 
 
 ## Local Execution
