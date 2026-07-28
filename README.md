@@ -21,6 +21,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **08** | 25/07/2026 | 1829A - Love Story | Codeforces | [Day 08](./Solutions/Day08.java) |
 | **09** | 26/07/2026 | 1560A - Disliikes of Threes | Codeforces | [Day 09](./Solutions/Day09.java) |
 | **10** | 27/07/2026 | 1512A - Spy Detected! | Codeforces | [Day 10](./Solutions/Day10.java) |
+| **11** | 28/07/2026 | 1850A - To my Critics | Codeforces | [Day 11](./Solutions/Day11.java) |
 
 
 ## Local Execution
