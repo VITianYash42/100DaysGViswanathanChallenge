@@ -23,7 +23,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **10** | 27/07/2026 | 1512A - Spy Detected! | Codeforces | [Day 10](./Solutions/Day10.java) |
 | **11** | 28/07/2026 | 1850A - To my Critics | Codeforces | [Day 11](./Solutions/Day11.java) |
 | **12** | 29/07/2026 | 1807A - Plus or Minus | Codeforces | [Day 12](./Solutions/Day12.java) |
-
+| **13** | 30/07/2026 | 271A - Beautiful Year | Codeforces | [Day 13](./Solutions/Day13.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
