@@ -27,6 +27,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **14** | 31/07/2026 | 1692A - Marathon | Codeforces | [Day 14](./Solutions/Day14.java) |
 | **15** | 01/08/2026 | 996A - Hit The Lottery | Codeforces | [Day 15](./Solutions/Day15.java) |
 | **16** | 02/08/2026 | 148A - Insomnia Cure | Codeforces | [Day 16](./Solutions/Day16.java) |
+| **17** | 03/08/2026 | 228A - Is Your Horseshoe on the Other Hoof? | Codeforces | [Day 17](./Solutions/Day17.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
