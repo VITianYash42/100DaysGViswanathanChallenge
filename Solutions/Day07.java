@@ -1,6 +1,5 @@
                                                     // 1950A - Stair, Peak or Neither? //
 
-package Solutions;
 import java.util.*;
 
 public class Day07 {

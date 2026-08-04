@@ -1,6 +1,5 @@
                                                    // 1669A - Division? //
 
-package Solutions;
 import java.util.*;
 
 public class Day06 {

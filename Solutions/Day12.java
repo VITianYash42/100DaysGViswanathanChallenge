@@ -1,6 +1,5 @@
                                                       // 1807A - Plus or Minus //
 
-package Solutions;
 import java.util.*;
 
 public class Day12 {

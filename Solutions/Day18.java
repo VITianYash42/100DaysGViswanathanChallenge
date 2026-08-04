@@ -1,6 +1,4 @@
                                                        // 520A - Pangram //
-
-package Solutions;
 import java.util.*;
 
 public class Day18 {

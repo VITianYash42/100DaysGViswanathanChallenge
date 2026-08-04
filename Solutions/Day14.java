@@ -1,6 +1,5 @@
                                                        // 1692A - Marathon //
 
-package Solutions;
 import java.util.*;
 
 public class Day14 {

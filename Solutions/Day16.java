@@ -1,6 +1,5 @@
                                                       // 148A - Insomnia Cure //
 
-package Solutions;
 import java.util.Scanner;
 
 public class Day16 {

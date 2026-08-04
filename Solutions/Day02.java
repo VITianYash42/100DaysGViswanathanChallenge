@@ -1,5 +1,4 @@
-package Solutions;
-                          // 1030A - In Search Of an Easy Problem //
+                                            // 1030A - In Search Of an Easy Problem //
 
 import java.util.*;
 

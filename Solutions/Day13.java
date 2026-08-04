@@ -1,6 +1,5 @@
                                                         // 271A - Beautiful Year //
 
-package Solutions;
 import java.util.*;
 
 public class Day13 {

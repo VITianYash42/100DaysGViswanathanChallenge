@@ -1,6 +1,5 @@
                                                    // 1829A - Love Story //
 
-package Solutions;
 import java.util.*;
 
 public class Day08 {

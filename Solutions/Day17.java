@@ -1,6 +1,5 @@
                                                  //228A - Is Your Horseshoe on the Other Hoof? //
 
-package Solutions;
 import java.util.*;
 
 public class Day17 {

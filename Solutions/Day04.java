@@ -1,6 +1,5 @@
                                                  // 1999A - A + B Again? // 
 
-package Solutions;
 import java.util.*;
 
 public class Day04 {

@@ -1,5 +1,4 @@
-package Solutions;
-                               // 1915A - Odd One Out  //                    
+                                                      // 1915A - Odd One Out  //                    
 
 import java.util.Scanner;
  

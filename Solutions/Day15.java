@@ -1,6 +1,5 @@
                                                        // 996A - Hit the Lottery //
 
-package Solutions;
 import java.util.*;
 
 public class Day15 {

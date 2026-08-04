@@ -1,6 +1,5 @@
                                                       // 1560A - Dislikes Of Threes //
 
-package Solutions;
 import java.util.*;
 
 public class Day09 {

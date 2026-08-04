@@ -1,6 +1,5 @@
                                                   // 1850A - To My Critics //
 
-package Solutions;
 import java.util.*;
 
 public class Day11 {

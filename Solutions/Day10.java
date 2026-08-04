@@ -1,6 +1,5 @@
                                                       // 1512A - Spy Detected! //
 
-package Solutions;
 import java.util.*;
 
 public class Day10 {

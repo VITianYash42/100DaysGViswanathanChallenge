@@ -1,6 +1,5 @@
                                                            // 1742A - SUM //           
 
-package Solutions;
 import java.util.*;
 
 public class Day05 {
