@@ -29,6 +29,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **16** | 02/08/2026 | 148A - Insomnia Cure | Codeforces | [Day 16](./Day16.java) |
 | **17** | 03/08/2026 | 228A - Is Your Horseshoe on the Other Hoof? | Codeforces | [Day 17](./Day17.java) |
 | **18** | 04/08/2026 | 520A - Pangram | Codeforces | [Day 18](./Day18.java) |
+| **19** | 05/08/2026 | 785A - Anton and Polyhedrons | Codeforces | [Day 19](./Day19.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
