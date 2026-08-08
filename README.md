@@ -32,6 +32,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **19** | 05/08/2026 | 785A - Anton and Polyhedrons | Codeforces | [Day 19](./Day19.java) |
 | **20** | 06/08/2026 | 141A - Amusing Joke | Codeforces | [Day 20](./Day20.java) |
 | **21** | 07/08/2026 | 750A - New Year and Hurry | Codeforces | [Day 21](./Day21.java) |
+| **22** | 08/08/2026 | 1791A - Codeforces Checking | Codeforces | [Day 22](./Day22.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
