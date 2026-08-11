@@ -35,6 +35,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **22** | 08/08/2026 | 1791A - Codeforces Checking | Codeforces | [Day 22](./Day22.java) |
 | **23** | 09/08/2026 | 116A - Tram | Codeforces | [Day 23](./Day23.java) |
 | **24** | 10/08/2026 | 2094A - Trippi Troppi | Codeforces | [Day 24](./Day24.java) |
+| **25** | 11/08/2026 | 1873C - Target Practice | Codeforces | [Day 25](./Day25.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
