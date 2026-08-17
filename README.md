@@ -41,6 +41,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **28** | 14/08/2026 | 1985A - Creating Words | Codeforces | [Day 28](./Day28.java) |
 | **29** | 15/08/2026 | 1760A - Medium Number | Codeforces | [Day 29](./Day29.java) |
 | **30** | 16/08/2026 | 1926A - Vlad and the Best of Five | Codeforces | [Day 30](./Day30.java) |
+| **31** | 17/08/2026 | 1742B - Increasing | Codeforces | [Day 31](./Day31.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
