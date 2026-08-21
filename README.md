@@ -45,6 +45,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **32** | 18/08/2026 | 2167A - Square? | Codeforces | [Day 32](./Day32.java) |
 | **33** | 19/08/2026 | 1367B - Even Array | Codeforces | [Day 33](./Day33.java) |
 | **34** | 20/08/2026 | 1676A - Lucky? | Codeforces | [Day 34](./Day34.java) |
+| **35** | 21/08/2026 | 1472B - Fair Divison | Codeforces | [Day 35](./Day35.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
