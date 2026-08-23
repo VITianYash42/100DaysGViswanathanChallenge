@@ -47,6 +47,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **34** | 20/08/2026 | 1676A - Lucky? | Codeforces | [Day 34](./Day34.java) |
 | **35** | 21/08/2026 | 1472B - Fair Divison | Codeforces | [Day 35](./Day35.java) |
 | **36** | 22/08/2026 | 1669B - Triple | Codeforces | [Day 36](./Day36.java) |
+| **37** | 23/08/2026 | 1370A - Maximum GCD | Codeforces | [Day 37](./Day37.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
