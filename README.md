@@ -49,6 +49,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **36** | 22/08/2026 | 1669B - Triple | Codeforces | [Day 36](./Day36.java) |
 | **37** | 23/08/2026 | 1370A - Maximum GCD | Codeforces | [Day 37](./Day37.java) |
 | **38** | 24/08/2026 | 1829B - Blank Space | Codeforces | [Day 38](./Day38.java) |
+| **39** | 25/08/2026 | 1343B - Balanced Array | Codeforces | [Day 39](./Day39.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
