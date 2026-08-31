@@ -52,6 +52,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **39** | 25/08/2026 | 1343B - Balanced Array | Codeforces | [Day 39](./Day39.java) |
 | **40** | 26/08/2026 | 1760B - Atilla's Favourite Problem | Codeforces | [Day 40](./Day40.java) |
 | **41** | 27/08/2026 | 1703B - ICPC Balloons | Codeforces | [Day 41](./Day41.java) |
+| **42** | 31/08/2026 | 443A - Anton and Letters | Codeforces | [Day 42](./Day42.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
