@@ -55,6 +55,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **42** | 31/08/2026 | 443A - Anton and Letters | Codeforces | [Day 42](./Day42.java) |
 | **43** | 01/09/2026 | 677A - Vanya and Fence | Codeforces | [Day 43](./Day43.java) |
 | **44** | 02/09/2026 | 1335A - Candies and Two Sisters | Codeforces | [Day 44](./Day44.java) |
+| **45** | 06/09/2026 | 268A - Games | Codeforces | [Day 45](./Day45.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
