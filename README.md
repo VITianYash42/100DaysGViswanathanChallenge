@@ -57,6 +57,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **44** | 02/09/2026 | 1335A - Candies and Two Sisters | Codeforces | [Day 44](./Day44.java) |
 | **45** | 06/09/2026 | 268A - Games | Codeforces | [Day 45](./Day45.java) |
 | **46** | 07/09/2026 | 977A - Wrong Subtraction | Codeforces | [Day 46](./Day46.java) |
+| **47** | 08/09/2026 | 510A - Fox and Snake | Codeforces | [Day 47](./Day47.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
