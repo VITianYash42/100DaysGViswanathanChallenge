@@ -58,6 +58,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **45** | 06/09/2026 | 268A - Games | Codeforces | [Day 45](./Day45.java) |
 | **46** | 07/09/2026 | 977A - Wrong Subtraction | Codeforces | [Day 46](./Day46.java) |
 | **47** | 08/09/2026 | 510A - Fox and Snake | Codeforces | [Day 47](./Day47.java) |
+| **48** | 09/09/2026 | 1766A - Extremely Round | Codeforces | [Day 48](./Day48.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
