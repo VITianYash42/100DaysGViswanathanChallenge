@@ -60,6 +60,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **47** | 08/09/2026 | 510A - Fox and Snake | Codeforces | [Day 47](./Day47.java) |
 | **48** | 09/09/2026 | 1766A - Extremely Round | Codeforces | [Day 48](./Day48.java) |
 | **49** | 10/09/2026 | 469A - I wanna be the Guy | Codeforces | [Day 49](./Day49.java) |
+| **50** | 12/09/2026 | 144A - Arrival of the General | Codeforces | [Day 50](./Day50.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
