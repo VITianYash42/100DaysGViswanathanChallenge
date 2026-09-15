@@ -63,6 +63,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **50** | 12/09/2026 | 144A - Arrival of the General | Codeforces | [Day 50](./Day50.java) |
 | **51** | 13/09/2026 | 1352A - Sum of Round Numbers | Codeforces | [Day 51](./Day51.java) |
 | **52** | 14/09/2026 | 1877A - Goals of Victory | Codeforces | [Day 52](./Day52.java) |
+| **53** | 15/09/2026 | 1899A - Game with Integers | Codeforces | [Day 53](./Day53.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
