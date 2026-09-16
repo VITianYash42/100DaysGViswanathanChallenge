@@ -64,6 +64,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **51** | 13/09/2026 | 1352A - Sum of Round Numbers | Codeforces | [Day 51](./Day51.java) |
 | **52** | 14/09/2026 | 1877A - Goals of Victory | Codeforces | [Day 52](./Day52.java) |
 | **53** | 15/09/2026 | 1899A - Game with Integers | Codeforces | [Day 53](./Day53.java) |
+| **54** | 16/09/2026 | 1881A - Don't Try to Count | Codeforces | [Day 54](./Day54.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
