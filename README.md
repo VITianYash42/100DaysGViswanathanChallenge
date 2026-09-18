@@ -66,6 +66,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **53** | 15/09/2026 | 1899A - Game with Integers | Codeforces | [Day 53](./Day53.java) |
 | **54** | 16/09/2026 | 1881A - Don't Try to Count | Codeforces | [Day 54](./Day54.java) |
 | **55** | 17/09/2026 | 427A - Police Recruits | Codeforces | [Day 55](./Day55.java) |
+| **56** | 18/09/2026 | 2185B - Prefix Max | Codeforces | [Day 56](./Day56.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
