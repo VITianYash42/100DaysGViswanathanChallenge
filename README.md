@@ -67,6 +67,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **54** | 16/09/2026 | 1881A - Don't Try to Count | Codeforces | [Day 54](./Day54.java) |
 | **55** | 17/09/2026 | 427A - Police Recruits | Codeforces | [Day 55](./Day55.java) |
 | **56** | 18/09/2026 | 2185B - Prefix Max | Codeforces | [Day 56](./Day56.java) |
+| **57** | 19/09/2026 | 151A - Soft Drinking | Codeforces | [Day 57](./Day57.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
