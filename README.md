@@ -70,6 +70,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **57** | 19/09/2026 | 151A - Soft Drinking | Codeforces | [Day 57](./Day57.java) |
 | **58** | 20/09/2026 | 1873B - Good Kid | Codeforces | [Day 58](./Day58.java) |
 | **59** | 21/09/2026 | 758A - Holiday of Equality | Codeforces | [Day 59](./Day59.java) |
+| **60** | 22/09/2026 | 732A - Buy a Shovel | Codeforces | [Day 60](./Day60.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
