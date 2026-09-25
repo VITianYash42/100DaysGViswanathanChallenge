@@ -73,6 +73,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **60** | 22/09/2026 | 732A - Buy a Shovel | Codeforces | [Day 60](./Day60.java) |
 | **61** | 23/09/2026 | 1857A - Array Coloring | Codeforces | [Day 61](./Day61.java) |
 | **62** | 24/09/2026 | 581A - Vasya the Hipster | Codeforces | [Day 62](./Day62.java) |
+| **63** | 25/09/2026 | 1399A - Remove Smallest | Codeforces | [Day 63](./Day63.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
