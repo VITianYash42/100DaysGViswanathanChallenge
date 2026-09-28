@@ -75,6 +75,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **62** | 24/09/2026 | 581A - Vasya the Hipster | Codeforces | [Day 62](./Day62.java) |
 | **63** | 25/09/2026 | 1399A - Remove Smallest | Codeforces | [Day 63](./Day63.java) |
 | **64** | 27/09/2026 | 431A - Black Square | Codeforces | [Day 64](./Day64.java) |
+| **65** | 28/09/2026 | 32B - Borze | Codeforces | [Day 65](./Day65.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
