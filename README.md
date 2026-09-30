@@ -77,6 +77,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **64** | 27/09/2026 | 431A - Black Square | Codeforces | [Day 64](./Day64.java) |
 | **65** | 28/09/2026 | 32B - Borze | Codeforces | [Day 65](./Day65.java) |
 | **66** | 29/09/2026 | 1901A - Line Trip | Codeforces | [Day 66](./Day66.java) |
+| **67** | 30/09/2026 | 2009A - Minimize! | Codeforces | [Day 67](./Day67.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
