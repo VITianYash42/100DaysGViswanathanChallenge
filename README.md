@@ -81,6 +81,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **68** | 03/10/2026 | 703A - Mishka and Game | Codeforces | [Day 68](./Day68.java) |
 | **69** | 04/10/2026 | 1853A - Desorting | Codeforces | [Day 69](./Day69.java) |
 | **70** | 05/10/2026 | 1367A - Short Substrings | Codeforces | [Day 70](./Day70.java) |
+| **71** | 06/10/2026 | 1950B - Upscaling | Codeforces | [Day 71](./Day71.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
