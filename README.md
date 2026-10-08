@@ -83,6 +83,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **70** | 05/10/2026 | 1367A - Short Substrings | Codeforces | [Day 70](./Day70.java) |
 | **71** | 06/10/2026 | 1950B - Upscaling | Codeforces | [Day 71](./Day71.java) |
 | **72** | 07/10/2026 | 1907A - Rook | Codeforces | [Day 72](./Day72.java) |
+| **73** | 08/10/2026 | 1866A - Ambitious Kid | Codeforces | [Day 73](./Day73.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
