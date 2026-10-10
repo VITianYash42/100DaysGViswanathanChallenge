@@ -84,6 +84,8 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **71** | 06/10/2026 | 1950B - Upscaling | Codeforces | [Day 71](./Day71.java) |
 | **72** | 07/10/2026 | 1907A - Rook | Codeforces | [Day 72](./Day72.java) |
 | **73** | 08/10/2026 | 1866A - Ambitious Kid | Codeforces | [Day 73](./Day73.java) |
+| **74** | 09/10/2026 | 1426A - Floor Number | Codeforces | [Day 74](./Day74.java) |
+| **75** | 10/10/2026 | 1996A - Legs | Codeforces | [Day 75](./Day75.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
