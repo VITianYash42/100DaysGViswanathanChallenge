@@ -88,6 +88,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **75** | 10/10/2026 | 1996A - Legs | Codeforces | [Day 75](./Day75.java) |
 | **76** | 11/10/2026 | 1360B - Honest Coach | Codeforces | [Day 76](./Day76.java) |
 | **77** | 12/10/2026 | 1294A - Collecting Coins | Codeforces | [Day 77](./Day77.java) |
+| **78** | 13/10/2026 | 1807B - Grab the Candies | Codeforces | [Day 78](./Day78.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
