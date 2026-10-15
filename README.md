@@ -90,6 +90,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **77** | 12/10/2026 | 1294A - Collecting Coins | Codeforces | [Day 77](./Day77.java) |
 | **78** | 13/10/2026 | 1807B - Grab the Candies | Codeforces | [Day 78](./Day78.java) |
 | **79** | 14/10/2026 | 1921A - Square | Codeforces | [Day 79](./Day79.java) |
+| **80** | 15/10/2026 | 9A - Die Roll | Codeforces | [Day 80](./Day80.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
