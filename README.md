@@ -93,6 +93,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **80** | 15/10/2026 | 9A - Die Roll | Codeforces | [Day 80](./Day80.java) |
 | **81** | 16/10/2026 | 707A - Brain's Photos | Codeforces | [Day 81](./Day81.java) |
 | **82** | 17/10/2026 | 1389A - LCM Problem | Codeforces | [Day 82](./Day82.java) |
+| **83** | 18/10/2026 | 2000A - Primary Task | Codeforces | [Day 83](./Day83.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
