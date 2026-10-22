@@ -96,6 +96,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **83** | 18/10/2026 | 2000A - Primary Task | Codeforces | [Day 83](./Day83.java) |
 | **84** | 20/10/2026 | 490A - Team Olympiad | Codeforces | [Day 84](./Day84.java) |
 | **85** | 21/10/2026 | 2009B - osu!mania | Codeforces | [Day 85](./Day85.java) |
+| **86** | 22/10/2026 | 1814A - Coins | Codeforces | [Day 86](./Day86.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
