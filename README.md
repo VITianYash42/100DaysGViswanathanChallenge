@@ -99,6 +99,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **86** | 22/10/2026 | 1814A - Coins | Codeforces | [Day 86](./Day86.java) |
 | **87** | 23/10/2026 | 1535A - Fair Playoff | Codeforces | [Day 87](./Day87.java) |
 | **88** | 24/10/2026 | 1783A - Make it Beautiful | Codeforces | [Day 88](./Day88.java) |
+| **89** | 25/10/2026 | 702A - Maximum Increase | Codeforces | [Day 89](./Day89.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
