@@ -102,6 +102,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **89** | 25/10/2026 | 702A - Maximum Increase | Codeforces | [Day 89](./Day89.java) |
 | **90** | 26/10/2026 | 1676B - Equal candies | Codeforces | [Day 90](./Day90.java) |
 | **91** | 27/10/2026 | 1722B - Colourblindness | Codeforces | [Day 91](./Day91.java) |
+| **92** | 28/10/2026 | 1896A - Jagged Swaps | Codeforces | [Day 92](./Day92.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
