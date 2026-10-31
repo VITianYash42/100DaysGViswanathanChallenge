@@ -104,6 +104,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **91** | 27/10/2026 | 1722B - Colourblindness | Codeforces | [Day 91](./Day91.java) |
 | **92** | 28/10/2026 | 1896A - Jagged Swaps | Codeforces | [Day 92](./Day92.java) |
 | **93** | 30/10/2026 | 2260A - Monocarp's Contest | Codeforces | [Day 93](./Day93.java) |
+| **94** | 31/10/2026 | 1619A - Square String? | Codeforces | [Day 94](./Day94.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
