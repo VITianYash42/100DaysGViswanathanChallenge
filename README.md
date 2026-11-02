@@ -105,6 +105,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **92** | 28/10/2026 | 1896A - Jagged Swaps | Codeforces | [Day 92](./Day92.java) |
 | **93** | 30/10/2026 | 2260A - Monocarp's Contest | Codeforces | [Day 93](./Day93.java) |
 | **94** | 31/10/2026 | 1619A - Square String? | Codeforces | [Day 94](./Day94.java) |
+| **95** | 02/11/2026 | 1283A - Minutes Before The New Year | Codeforces | [Day 95](./Day95.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
