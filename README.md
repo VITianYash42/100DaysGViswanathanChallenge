@@ -109,6 +109,7 @@ This repository tracks my daily progress through the 100-day #DrGViswanathan cha
 | **96** | 03/11/2026 | 1433A - Boring Apartments | Codeforces | [Day 96](./Day96.java) |
 | **97** | 04/11/2026 | 1850C - Word on the Paper | Codeforces | [Day 97](./Day97.java) |
 | **98** | 05/11/2026 | 1955A - Yogurt Sale | Codeforces | [Day 98](./Day98.java) |
+| **99** | 06/11/2026 | 1985B - Maximum Multiple Sum | Codeforces | [Day 99](./Day99.java) |
 
 ## Local Execution
 To compile and run any of the solutions locally:
